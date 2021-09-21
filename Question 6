@@ -1,0 +1,30 @@
+Total number of formats: 27
+Note: Format defaults to 2 digit years but can be overriden to 4 digit years
+
+1	MM/DD/YY
+2	DD/MM/YY
+3	YY/MM/DD
+4	Month D, Yr
+5	M/D/YY
+6	D/M/YY
+7	YY/M/D
+8	bM/bD/YY
+9	bD/bM/YY
+A	YY/bM/bD
+B	MMDDYY
+C	DDMMYY
+D	YYMMDD
+E	MonDDYY
+F	DDMonYY
+G	YYMonDD
+H	day/YY
+I	YY/day
+J	D Month, Yr
+K	Yr, Month D
+L *	Mon-DD-YYYY
+M *	DD-Mon-YYYY
+N	YYYYY-Mon-DD
+O	Mon DD, YYYY
+P	DD Mon, YYYY
+Q	YYYY, Mon DD
+X	(hexadecimal)
